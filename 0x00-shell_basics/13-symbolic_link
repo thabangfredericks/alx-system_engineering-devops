@@ -1,0 +1,2 @@
+#!/bin/bashl
+ln -s /bin/lis __ls__
